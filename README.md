@@ -1,10 +1,13 @@
 Python eksamen
 
 Project name: Bilhandler
+
 Short description: 
-	using web scraping to collet date and write data to a csv fil. afterwards clean data, 
+	Using web scraping to collet date and write data to a csv fil.
+	afterwards clean data, 
 	use date to show use of applying mathematical and statistical operations.
 	last use data to for clustering and classification
+
 List of used technologies
 	- data structures (lists and Dictionaries) (done)
 	- Loops (done
@@ -23,6 +26,7 @@ List of used technologies
 
 Installation guide (if any libraries need to be installed)
 	- nil 
+
 User guide (how to run the program)
 	- run kernel (will use provided csv file)
 	alternativ:
