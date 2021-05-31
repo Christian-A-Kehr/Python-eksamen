@@ -11,12 +11,6 @@ Short description:
 
 List of used technologies:
 
-	- data structures (lists and Dictionaries) (done)
-	- Loops (done
-	- Functions (done)
-	- <<<argparse>>> if time (almost rdy just need to be applied to code)
-	- Working with Files (done)
-	- Object-oriented Programming (may not be needed, but car class is done)
 	- Exceptions (have some, but need more)
 	- Plotting (not done)
 	- Numpy (not sure if is needed)
@@ -28,7 +22,7 @@ List of used technologies:
 
 Installation guide (if any libraries need to be installed):
 
-	- nil 
+	- all libraies inluced in Thomas notebook => clone project to notebook
 
 User guide (how to run the program):
 	
