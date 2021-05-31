@@ -1,0 +1,116 @@
+model,price,Kilometer,Årgang,Hestekræfter,Km/l,Tophastighed,Brændstoftype,Max. påhæng,Vægt,Gearkasse,Antal døre
+"Alfa Romeo Giulietta 1,4 M-Air 150 Sprin",169900,41000,2015,150,18,210,Benzin,1.300,1.265,Manue,5
+"Alfa Romeo MiTo 1,4 M-Air 170 Quadrifoglio Verde",79900,120000,2011,170,17,219,Benzin,1.000,1.195,Manue,3
+"Alfa Romeo Giulietta 1,4 TCT Sportiva",118000,106500,2013,170,,,Benzin,,,Automatis,
+"Alfa Romeo Giulia 2,9 Quadrifoglio",297000,13747,2018,510,,,Benzin,,,Automatis,
+"Alfa Romeo Stelvio 2,2 JTD 190 Sprint au",559900,6000,2021,190,21,210,Diese,1.600,1.635,Automatis,5
+"Alfa Romeo GT 2,0 JTS Lusso",64800,233000,2005,165,12,216,Benzin,1.300,1.295,Manue,3
+"Alfa Romeo Spider 3,0 V6",119500,209000,1997,192,9,225,Benzin,1.000,1.395,Manue,2
+Alfa Romeo Giulietta TBi Quadrifoglio Verde,174900,95000,2012,235,13,242,Benzin,1.300,1.295,Manue,5
+"Alfa Romeo 159 2,0 JTD Distinctive Sportwagon",79900,204000,2012,170,18,216,Diese,1.500,1.510,Manue,5
+"Alfa Romeo Giulia 2,2 JTD 180 Super au",299900,61000,2018,180,26,230,Diese,1.600,1.420,Automatis,4
+"Alfa Romeo Giulia 2,9 V6 Quadrifoglio",275000,13747,2018,510,,,Benzin,,,Automatis,
+"Alfa Romeo Stelvio 2,0 T 200 Edizione aut. Q4",499800,22000,2018,200,14,215,Benzin,2.000,1.635,Automatis,5
+"Alfa Romeo Giulietta 1,4 Turbo 120 Sportiva",98900,116000,2011,120,16,195,Benzin,1.300,1.255,Manue,5
+"Alfa Romeo 164 3,0 V6",,198000,1992,201,,237,Benzin,,1.450,Manue,4
+"Alfa Romeo GTV 2,0",79800,165030,1981,131,,,Benzin,,,Manue,
+Alfa Romeo Giulietta TBi Quadrifoglio Verde,164900,93000,2011,235,13,242,Benzin,1.300,1.295,Manue,5
+"Alfa Romeo 159 2,4 JTDm 210 Ti",49700,126000,2008,210,15,231,Diese,1.500,1.560,Manue,4
+"Alfa Romeo Giulietta 1,4 Turbo 120 Distinctive",159900,67000,2015,120,16,195,Benzin,,1.280,Manue,5
+"Alfa Romeo MiTo 0,9 TwinAir 85 Distinctive",69900,162000,2012,85,24,172,Benzin,500,1.105,Manue,3
+"Alfa Romeo Giulia 2,2 JTD 180 au",369900,20000,2018,180,26,230,Diese,1.600,1.420,Automatis,4
+"Alfa Romeo Giulietta 1,4 Turbo 120 Distinctive",104900,74000,2011,120,16,195,Benzin,1.300,1.255,Manue,5
+"Alfa Romeo Giulietta 1,4 M-Air 170 Sportiva",159900,89000,2013,170,17,218,Benzin,1.300,1.265,Manue,5
+"Alfa Romeo Giulietta 2,0 JTD 170 Veloce TCT",269800,14000,2019,170,22,,Diese,,1.920,Automatis,5
+"Alfa Romeo Stelvio 2,2 JTD 190 Edizione au",449800,20000,2019,190,21,210,Diese,1.700,1.579,Automatis,5
+"Alfa Romeo Giulietta 2,0 JTD 170 Veloce TCT",269800,9400,2019,170,22,,Diese,,1.920,Automatis,5
+"Alfa Romeo Giulietta 2,0 JTD 170 Veloce TCT",249800,43000,2019,170,22,,Diese,,1.920,Automatis,5
+"Alfa Romeo Giulia 2,2 JTD 150",269900,57000,2017,150,24,220,Diese,1.600,1.374,Manue,4
+"Alfa Romeo 159 2,4 JTDm Sportwagon",49900,124000,2007,200,14,228,Diese,1.500,1.660,Manue,5
+"Alfa Romeo MiTo 1,3",43000,188000,2012,85,,,Diese,,,Manue,
+"Alfa Romeo Stelvio 2,0 T 200 Edizione aut. Q4",497900,14000,2019,200,14,215,Benzin,2.000,1.635,Automatis,5
+"Alfa Romeo Giulietta 1,4 M-Air 170 Super TCT",184900,75000,2016,170,20,218,Benzin,1.300,1.280,Automatis,5
+"Alfa Romeo Giulia 2,0 T 200 Super au",379900,14000,2019,200,17,235,Benzin,1.600,1.404,Automatis,4
+Alfa Romeo Giulietta TBi Quadrifoglio Verde,169900,97000,2011,235,13,242,Benzin,1.300,1.295,Manue,5
+"Alfa Romeo 147 1,6 TS 16V 120 Supe",22900,198000,2004,120,12,195,Benzin,1.300,1.200,Manue,3
+"Alfa Romeo 159 2,4 JTD 20V",44900,180000,2007,200,15,228,Diese,1.500,1.625,Manue,4
+"Alfa Romeo Giulia 2,0 Grand prix",,31000,2019,200,,,Benzin,,,Automatis,
+"Alfa Romeo 146 1,6 110",10000,220090,1998,110,,,Benzin,,,Manue,
+"Alfa Romeo Giulia 2,0 T 200 Super au",329900,64000,2018,200,17,230,Benzin,1.600,1.404,Automatis,4
+"Alfa Romeo 159 2,4 JTD 20V",16900,322000,2006,200,15,228,Diese,1.500,1.625,Manue,4
+"Alfa Romeo GT 2,0 JTS Lusso",85900,111000,2004,165,12,216,Benzin,1.300,1.295,Manue,3
+"Alfa Romeo 159 2,4 JTD 20V  6",1234,1234,2011,200,,,Diese,,,Manue,
+"Alfa Romeo GTV 2,5 6   2d",1234,1234,1987,160,,,Benzin,,,Manue,
+"Alfa Romeo 146 1,4 T.Spark 16V  5d",1234,1234,2003,103,,,Benzin,,,Manue,
+"Alfa Romeo 4C 1,7 Spider  Turbo TCT  Cabr. 6g Au",1234,1234,2013,240,,,Benzin,,,Automatis,
+"Alfa Romeo Giulietta 1,4  5d",50000,50000,2015,170,,,Benzin,,,Manue,
+"Alfa Romeo 159 3,2 V6 JTS Ti Sportwagon Q4",99700,109000,2006,260,9,237,Benzin,1.800,1.852,Manue,5
+"Alfa Romeo Giulietta 1,4 QV M-Air Sportivo  5d 6",109900,170000,2011,170,17,,Benzin,,1.795,Manue,
+"Alfa Romeo Giulietta 1,4 M-Air 170 Distinctive",149900,96000,2015,170,18,218,Benzin,1.300,1.290,Manue,5
+"Alfa Romeo MiTo 1,3 JTD 95 Distinctive",49700,123000,2011,95,23,180,Diese,1.000,1.150,Manue,3
+"Alfa Romeo Giulietta 1,4 M-Air 170 Sportiva",189900,33000,2016,170,18,218,Benzin,1.300,1.290,Manue,5
+"Alfa Romeo Giulia 2,2 JTD 180 Super au",329900,49000,2018,180,26,230,Diese,1.600,1.420,Automatis,4
+"Alfa Romeo Stelvio 2,2 JTD 150 au",344900,150000,2017,150,21,,Diese,1.700,1.579,Automatis,5
+"Alfa Romeo MiTo 1,6 JTD 120 Distinctive",39900,229000,2009,120,21,198,Diese,500,1.180,Manue,3
+Alfa Romeo 159 TBi Distinctive Sportwagon,89700,182000,2010,200,12,233,Benzin,1.500,1.455,Manue,5
+"Alfa Romeo Giulietta 1,4 M-Air 170 Edizione TCT",259800,28000,2018,170,20,218,Benzin,1.300,1.280,,5
+"Alfa Romeo Giulia 2,2 D Super  8g Au",244900,142400,2016,180,26,230,Diese,,2.020,Automatis,4
+"Alfa Romeo Giulietta 2,0 JTD 175 Super TCT",219900,60000,2016,175,23,219,Diese,600,1.310,Automatis,5
+"Alfa Romeo 2000 GTV 2,0 Bertone",,38000,1972,,,,Benzin,,,Manue,2
+"Alfa Romeo 159 2,2 JTS Lusso",24400,207000,2006,185,11,224,Benzin,1.500,1.475,Manue,4
+"Alfa Romeo GTV 2,0 JTS",99900,129000,2004,165,11,220,Benzin,950,1.350,,2
+"Alfa Romeo 156 2,5 Berlina 2,5 V6",58000,190000,2000,192,,,Benzin,,,Manue,
+"Alfa Romeo 156 2,0 JTS Sportwagon",14999,199000,2002,165,11,220,Benzin,1.300,1.300,Manue,5
+"Alfa Romeo Giulietta 1,4 Turbo 120 Distinctive",89900,119000,2012,120,16,195,Benzin,1.300,1.255,Manue,5
+"Alfa Romeo MiTo 1,3 JTD 90 Distinctive",49900,185000,2010,90,23,178,Diese,1.000,1.125,Manue,3
+"Alfa Romeo Giulia 2,0 T 200 Edizione au",389900,39000,2019,200,17,235,Benzin,1.600,1.404,Automatis,4
+"Alfa Romeo Giulietta 1,4 M-Air 170 Edizione TCT",204900,132000,2018,170,20,218,Benzin,1.300,1.280,Automatis,5
+"Alfa Romeo Giulietta 1,4 Turbo 105",99900,60000,2013,105,16,185,Benzin,1.300,1.280,Manue,5
+"Alfa Romeo GT 2,0 JTS Lusso",99900,165000,2007,165,12,216,Benzin,1.300,1.295,Manue,3
+"Alfa Romeo Stelvio 2,2 JTD 190 Edizione au",469900,32000,2019,190,21,210,Diese,1.700,1.579,Automatis,5
+"Alfa Romeo Giulia 2,0 T 280 Veloce aut. Q4",499900,35000,2019,280,14,240,Benzin,1.600,1.505,Automatis,4
+"Alfa Romeo 159 2,2 JTS",9900,315000,2006,185,11,224,Benzin,1.500,1.475,Manue,4
+"Alfa Romeo Giulietta 2,0 JTD 140 Sportiva QV",109900,118000,2013,140,22,205,Diese,1.300,1.295,Manue,5
+"Alfa Romeo Giulia 2,0 T 200 Sprint au",509900,14000,2020,200,17,230,Benzin,1.600,1.404,Automatis,4
+"Alfa Romeo Giulietta 2,0 JTD 140 Sportiva QV",173900,67000,2014,140,22,205,Diese,1.300,1.295,Manue,5
+"Alfa Romeo GT 2,0 JTS Lusso",169900,132000,2007,165,12,216,Benzin,1.300,1.295,Manue,3
+"Alfa Romeo Giulietta 1,4 M-Air 170 Distinctive TCT",119900,137000,2012,170,19,218,Benzin,1.300,1.285,Automatis,5
+"Alfa Romeo Giulia 2,0 T 280 Veloce aut. Q4",479800,26000,2019,280,14,240,Benzin,1.600,1.505,Automatis,4
+"Alfa Romeo 159 2,2 JTS Lusso Sportwagon",49999,165000,2007,185,10,222,Benzin,1.500,1.528,Manue,5
+"Alfa Romeo Giulietta 2,0 JTD 150 Distinctive",119700,174000,2015,150,24,210,Diese,,1.320,Manue,5
+"Alfa Romeo 159 1,9 JTDm Distinctive Sportwagon",44900,240000,2010,150,17,210,Diese,1.500,1.667,Manue,5
+"Alfa Romeo 159 2,4 JTDM",30000,240000,2007,200,,,Diese,,,Manue,
+"Alfa Romeo Giulietta 1,4 M-Air 170 Distinctive",149900,120000,2014,170,18,218,Benzin,,1.290,Manue,5
+"Alfa Romeo 159 1,9 JTS  6",39900,178000,2008,160,12,,Benzin,,2.000,Manue,
+"Alfa Romeo Giulietta 1,4 Turbo 120 Progression",69800,193000,2012,120,16,195,Benzin,1.300,1.255,,5
+"Alfa Romeo Giulietta 2,0 JTD 170 Distinctive",69700,246000,2012,170,21,218,Diese,1.300,1.295,Manue,5
+"Alfa Romeo 159 1,9 JTS",49900,118000,2008,160,12,212,Benzin,1.500,1.475,Manue,4
+"Alfa Romeo GT 1600 1,6 Junior Bertone",269900,76000,1975,103,,,Benzin,,,Manue,2
+"Alfa Romeo Spider 1,6",145000,999000,1984,109,,,Benzin,,,Manue,2
+"Alfa Romeo Giulietta 1,4 1.4 TB 120",128800,84000,2013,119,,,Benzin,,,Manue,
+"Alfa Romeo Spider 2,0 JTDm 16V",229900,180000,2010,170,18,215,Diese,1.500,1.615,Manue,2
+"Alfa Romeo Giulia TB 200 Aut. 2,0",319000,27500,2018,200,,,Benzin,,,Automatis,
+"Alfa Romeo 156 2,4 Sportwagon  JTD 20V  Stc 6",49900,291000,2005,175,15,,Diese,,1.930,Manue,
+"Alfa Romeo Stelvio 2,2 Turbo Super Q4  5d 8g Au",458900,36400,2019,210,21,215,Diese,,2.330,Automatis,5
+"Alfa Romeo Stelvio 2,2 Turbo  5d 8g Au",449900,17400,2019,180,21,210,Diese,,2.275,Automatis,4
+"Alfa Romeo 4C 1,7 Spider  Turbo TCT  Cabr. 6g Au",585100,0,2018,240,14,257,Benzin,,1.220,Automatis,2
+"Alfa Romeo MiTo 1,4 TB 155 Progression",74400,94000,2009,155,15,215,Benzin,500,1.120,Manue,3
+"Alfa Romeo Giulietta 1,6 JTD 105 Progression",94900,118000,2010,105,23,185,Diese,1.300,1.285,Manue,5
+"Alfa Romeo 166 2,5 V6 24V",39900,322000,1999,190,9,,Benzin,,2.000,Manue,
+"Alfa Romeo MiTo 1,4 M-Air 170 Quadrifoglio Verde",79400,195000,2010,170,17,219,Benzin,1.000,1.195,Manue,3
+"Alfa Romeo Giulia 2,2 D Super  8g Au",299900,73000,2018,180,26,230,Diese,,2.020,Automatis,4
+"Alfa Romeo GT 2,0 JTS Lusso  3d",99000,130000,2005,165,12,,Benzin,,1.850,Manue,
+"Alfa Romeo 166 2,4 20V JTD  Au",39900,322000,2003,175,11,,Diese,,2.100,Automatis,4
+"Alfa Romeo Stelvio 2,0 TB Veloce Q4  5d 8g Au",749795,25,2020,280,16,230,Benzin,,2.350,Automatis,5
+"Alfa Romeo Giulia 2,0 Turbo Super  8g Au",349800,33200,2018,200,17,235,Benzin,,2.005,Automatis,4
+"Alfa Romeo Giulietta 2,0 JTD 175 Distinctive TCT",179900,87000,2015,175,23,219,Diese,600,1.310,Automatis,5
+"Alfa Romeo Giulia 2,0 Turbo Veloce Q4  8g Au",474795,21200,2019,280,14,240,Benzin,,2.105,Automatis,4
+"Alfa Romeo Stelvio 2,0 TB Edizione Q4  5d 8g Au",499790,29000,2018,200,14,215,Benzin,,2.300,Automatis,5
+"Alfa Romeo GTV 3,0 V6 L 24V",109900,168000,1999,218,8,240,Benzin,1.000,1.375,Manue,2
+"Alfa Romeo Giulietta 2,0 JTD 150 Distinctive",169900,99000,2015,150,24,210,Diese,,1.320,Manue,5
+"Alfa Romeo 147 1,6 TS 16V 105",49990,35000,2001,105,12,185,Benzin,1.300,1.175,Manue,3
+"Alfa Romeo Giulietta 1,7 1750 TBI",137000,132000,2011,231,,,Benzin,,,Manue,
+"Alfa Romeo Giulietta 1,4 Multiair Edizione TCT  5d 6g Au",269900,18500,2019,170,20,218,Benzin,,1.810,Automatis,5
+"Alfa Romeo 156 2,0 JTS ""lusso""",35000,154000,2004,165,,,Benzin,,,Manue,
+"Alfa Romeo Giulietta 1,4 Multiair Edizione TCT  5d 6g Au",249900,47000,2018,170,20,218,Benzin,,1.810,Automatis,5
+"Alfa Romeo Giulietta 1,4 Multiair Sprint  5d 6",179900,22000,2015,150,18,210,Benzin,,1.795,Manue,4
